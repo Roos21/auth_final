@@ -1,0 +1,18 @@
+AUTHSAAD : code de retour positif de la création d'un administrateur (Fondateur)
+AUTHDAAD : code de retour négatif de la connexion d'un utilisateur pour un compte désactiver
+AUTHUAAD : code pour le login non reconnu par le système
+AUTHRAAD : code pour le retour de demande privilège de niveau 1
+AUTHPAAD : code pour l'indication du mot de passe incorrecte
+AUTHCAAD : code pour le retour lorsqu'un utilisateur n'est pas connecter et tente d'acceder au système
+AUTHOAAD : code pour le retour lorsqu'un utilisateur se déconnecte
+AUTHSAL2U : code pour le retour lorsqu'un utilisateur de niveau 2 est bien créé
+AUTHSUL2U : code pour le retour lorsqu'un utilisateur de niveau 2 a été mis à jour
+AUTHSDL2U : code pour le retour lorsqu'un utilisateur de niveau 2 a été supprimer
+AUTHFUL2U : code pour le retour lorsqu'un utilisateur de niveau 2 n'a pas été mis à jour, pour cause du mot de passe ne corespondant pa s à l'ancien
+AUTHSEPU : code pour le retour lorsqu'un utilisateur a bien modifier son profil
+AUTHSEPASU : code pour le retour lorsqu'un utilisateur modifie son mot de passe
+AUTHFEPASU : code pour le retour lorsqu'un utilisateur n'a pas fournit un ancien mot de passe correcte
+AUTHRPEI : code pour le retour lorsqu'un utilisateur n'a pas fourni  mail correcte
+AUTHRPCI : code pour le retour lorsqu'un utilisateur n'a pas fourni le code correctement
+AUTHRSPD : code pour le retour lorsqu'un utilisateur fourni l'ancien mot de passe comme le nouveau
+AUTHSEPASP : Lorsque le meme mot de passe est fournie lors de la première connexion
